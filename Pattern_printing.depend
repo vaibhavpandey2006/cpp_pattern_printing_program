@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1724172622 source:c:\users\18pan\onedrive\desktop\cpp geeks\pattern_printing\main.cpp
+	<iostream>
+	"join_p.h"
+
+1724173650 c:\users\18pan\onedrive\desktop\cpp geeks\pattern_printing\join_p.h
+
+1723952329 source:c:\users\18pan\onedrive\desktop\cpp geeks\pattern_printing\simple_printing.cpp
+	<iostream>
+	"join_p.h"
+
+1723970890 source:c:\users\18pan\onedrive\desktop\cpp geeks\pattern_printing\right_half_pyramid.cpp
+	<iostream>
+	"join_p.h"
+
+1724092109 source:c:\users\18pan\onedrive\desktop\cpp geeks\pattern_printing\print_square.cpp
+	<iostream>
+	"join_p.h"
+
+1723971268 source:c:\users\18pan\onedrive\desktop\cpp geeks\pattern_printing\pyramid_print.cpp
+	<iostream>
+	"join_p.h"
+
+1724090923 source:c:\users\18pan\onedrive\desktop\cpp geeks\pattern_printing\reverse_pyramid.cpp
+	<iostream>
+	"join_p.h"
+
+1723963636 source:c:\users\18pan\onedrive\desktop\cpp geeks\pattern_printing\print_triangle.cpp
+	<iostream>
+	"join_p.h"
+
+1723966332 source:c:\users\18pan\onedrive\desktop\cpp geeks\pattern_printing\print_numbers.cpp
+	<iostream>
+	"join_p.h"
+
+1723968642 source:c:\users\18pan\onedrive\desktop\cpp geeks\pattern_printing\charcter_pattern.cpp
+	<iostream>
+	"join_p.h"
+
+1724003009 source:c:\users\18pan\onedrive\desktop\cpp geeks\pattern_printing\diamond_pyramid.cpp
+	<iostream>
+	"join_p.h"
+
+1724165045 source:c:\users\18pan\onedrive\desktop\cpp geeks\pattern_printing\inverted_hollow_cylinder.cpp
+	<iostream>
+
+1724154502 source:c:\users\18pan\onedrive\desktop\cpp geeks\pattern_printing\inverted_hollow_pyramid.cpp
+	<iostream>
+	"join_p.h"
+
+1724157369 source:c:\users\18pan\onedrive\desktop\cpp geeks\pattern_printing\diamond_shape_hollow_pyramid.cpp
+	<iostream >
+	"join_p.h"
+
+1724159614 source:c:\users\18pan\onedrive\desktop\cpp geeks\pattern_printing\floyd_trianglepattern_pyramid.cpp
+	<iostream >
+	"join_p.h"
+
+1724164391 source:c:\users\18pan\onedrive\desktop\cpp geeks\pattern_printing\reverse_floyd_triangle_pyramid.cpp
+	<iostream>
+	"join_p.h"
+
+1724172704 source:c:\users\18pan\onedrive\desktop\cpp geeks\pattern_printing\pascals_triangle.cpp
+	<iostream>
+	"join_p.h"
+
